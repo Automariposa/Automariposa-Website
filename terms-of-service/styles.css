@@ -44,3 +44,8 @@ a:hover {
 	color: #00bfff; /* DeepSkyBlue */
 	text-decoration: underline;
 }
+
+.email {
+	color: #ffd700; /* Gold */
+	font-weight: bold;
+}
